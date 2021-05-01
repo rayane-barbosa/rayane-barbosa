@@ -13,6 +13,7 @@ print("Olá mundo")
 <DOCTYPE! html>
     <hmtl lang="pt-BR">
     	<head>
+            <meta charset ="utf -8">
             <title>Read me</title>
             <body>
                 <h1>
