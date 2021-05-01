@@ -9,6 +9,10 @@ printf("Olá Mundo");
 print("Olá mundo")
 ~~~~
 
+~~~git
+echo Olá mundo
+~~~~
+
 ~~~html
 <DOCTYPE! html>
     <hmtl lang="pt-BR">
