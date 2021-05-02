@@ -14,7 +14,7 @@ echo Olá mundo
 ~~~~
 
 ~~~html
-<DOCTYPE! html>
+<!DOCTYPE html>
     <hmtl lang="pt-BR">
     	<head>
             <meta charset ="utf -8">
