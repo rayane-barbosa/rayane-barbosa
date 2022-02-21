@@ -1,7 +1,8 @@
-rayane-barbosa:rainbow_flag:
 
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+
+
+<h3> :woman: &nbsp;Sobre mim :rainbow_flag:</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
