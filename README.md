@@ -38,6 +38,8 @@ rayane-barbosa:rainbow_flag:
 
 <br/>
 
+[![rayane-barbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-barbosa&hide=html&layout=compact=true&theme=default)](https://github.com/rayane-barbosa/)
+
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
