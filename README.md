@@ -39,7 +39,8 @@
 
 <br/>
 
-[![rayane-barbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-barbosa&hide=html&layout=compact=true&theme=default)](https://github.com/rayane-barbosa/)
+[![rayane-barbosa](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
 
 
 
