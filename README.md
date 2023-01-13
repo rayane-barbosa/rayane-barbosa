@@ -34,12 +34,11 @@
 
 <br/>
 
-  [![card](https://github-readme-stats.vercel.app/api?username=rayane-barbosa&theme=default&show_icons=true)](https://github.com/rayane-barbosa/)
-
+  
 
 <br/>
 
-[![rayane-barbosa](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
 
 
 
