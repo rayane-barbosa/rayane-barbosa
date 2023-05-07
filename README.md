@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
 - 💼 &nbsp; Trabalhando como **Técnico de Redes I** na <a href="https://globalhitss.com/">Global Hitss</a>
-- 🌱 &nbsp; Aprendendo mais sobre **DATA SCIENCE, INTELIGÊNCIA ARTIFICIAL, ENGENHARIA DE DADOS, DESENVOLVIMENTO EM GERAL**.
+- 🌱 &nbsp; Aprendendo mais sobre ** REACT, FRONT-END , INTELIGÊNCIA ARTIFICIAL E TECNOLOGIA EM GERAL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
