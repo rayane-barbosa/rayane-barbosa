@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Computer Engineering** at <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
-- 💼 &nbsp; WOrking as **Software Developer** at  <a href="https://br.linkedin.com/company/beesbrasil">Bees Brasil</a> 🐝🍻
-- 🌱 &nbsp; Learning more about  **REACT, TYPESCRIPT, FRONT-END , INTELIGÊNCIA ARTIFICIAL AND TECHNOLOGY IN GENERAL**.
+- 💼 &nbsp; Working as **Software Developer** at  <a href="https://br.linkedin.com/company/beesbrasil">Bees Brasil</a> 🐝🍻
+- 🌱 &nbsp; Learning more about  **REACT, TYPESCRIPT, FRONT-END , AI AND TECHNOLOGY IN GENERAL**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
