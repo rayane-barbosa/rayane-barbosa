@@ -2,34 +2,36 @@
 
 
 
-<h3> :woman: &nbsp;Sobre mim :rainbow_flag:</h3>
+<h3> :woman: &nbsp;About Me :rainbow_flag:</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Computação** na <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
-- 💼 &nbsp; Trabalhando como **Técnico de Redes I** na <a href="https://globalhitss.com/">Global Hitss</a>
-- 🌱 &nbsp; Aprendendo mais sobre **REACT, FRONT-END , INTELIGÊNCIA ARTIFICIAL E TECNOLOGIA EM GERAL**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying **Computer Engineering** at <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
+- 💼 &nbsp; WOrking as **Software Developer** at  <a href="https://br.linkedin.com/company/beesbrasil">Bees Brasil</a> 🐝🍻
+- 🌱 &nbsp; Learning more about  **REACT, TYPESCRIPT, FRONT-END , INTELIGÊNCIA ARTIFICIAL AND TECHNOLOGY IN GENERAL**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
   
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT)
 
-**Utilidades**
+**Utilities**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
 
 <center>
