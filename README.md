@@ -49,7 +49,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Rayane Barbosa](https://img.shields.io/badge/-Rayane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-barbosa-de-avelar-36abb3152/)](https://www.linkedin.com/in/rayane-barbosa-de-avelar-36abb3152/)
+[![Linkedin: Rayane Barbosa](https://img.shields.io/badge/-Rayane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-barbosa-36abb3152/)](https://www.linkedin.com/in/rayane-barbosa-36abb3152/)
 [![Gmail Badge](https://img.shields.io/badge/-rayanebarbosa.machinelearning@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanebarbosa.machinelearning@gmail.com)](mailto:rayanebarbosa.machinelearning@gmail.com)
 [![GitHub rayane-barbosa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/rayane-barbosa)
 <br/>
