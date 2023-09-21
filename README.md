@@ -20,10 +20,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT)
+  ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-333333?style=flat&logo=NEXT.JS)
 
 **Utilities**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
 
 **Development Tools**
