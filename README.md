@@ -5,9 +5,9 @@
 <h3> :woman: &nbsp;About Me :rainbow_flag:</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Computer Engineering** at <a href="https://www.usf.edu.br/">Universidade São Francisco</a>.
+- 🎓 &nbsp; Studying **Software Engineering** at <a href="https://estacio.br/">Faculdade Estácio</a>.
 - 💼 &nbsp; Working as **Software Developer** at  <a href="https://br.linkedin.com/company/beesbrasil">Bees Brasil</a> 🐝🍻
-- 🌱 &nbsp; Learning more about  **REACT, TYPESCRIPT, FRONT-END , AI AND TECHNOLOGY IN GENERAL**.
+- 🌱 &nbsp; Learning more about  **REACT, TYPESCRIPT, FRONT-END, AI AND TECHNOLOGY IN GENERAL**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
