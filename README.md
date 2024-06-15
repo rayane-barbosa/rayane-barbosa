@@ -22,7 +22,7 @@
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT)
   ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-333333?style=flat&logo=NEXT.JS)
   ![VITE.JS](https://img.shields.io/badge/-VITE.JS-333333?style=flat&logo=VITE)
-  ![NEST.JS](https://img.shields.io/badge/-NESTE.JS-333333?style=flat&logo=NESTJS)
+  ![NEST.JS](https://img.shields.io/badge/-NEST.JS-333333?style=flat&logo=NESTJS)
   
 
 **Utilities**
