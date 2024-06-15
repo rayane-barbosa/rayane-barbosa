@@ -16,16 +16,20 @@
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT)
   ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-333333?style=flat&logo=NEXT.JS)
+  ![VITE.JS](https://img.shields.io/badge/-VITE.JS-333333?style=flat&logo=VITE)
+  ![NEST.JS](https://img.shields.io/badge/-NESTE.JS-333333?style=flat&logo=NESTJS)
+  
 
 **Utilities**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![JEST](https://img.shields.io/badge/-JEST.JS-333333?style=flat&logo=JEST)
 
 
 **Development Tools**
@@ -33,7 +37,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
 
 <center>
