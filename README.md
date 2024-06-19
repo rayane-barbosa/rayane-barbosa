@@ -23,13 +23,16 @@
   ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-333333?style=flat&logo=NEXT.JS)
   ![VITE.JS](https://img.shields.io/badge/-VITE.JS-333333?style=flat&logo=VITE)
   ![NEST.JS](https://img.shields.io/badge/-NEST.JS-333333?style=flat&logo=NESTJS)
+  ![JEST](https://img.shields.io/badge/-JEST.JS-333333?style=flat&logo=JEST)
+  ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER)
+
+
   
 
 **Utilities**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![JEST](https://img.shields.io/badge/-JEST.JS-333333?style=flat&logo=JEST)
 
 
 **Development Tools**
